@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-MyWorld
-=======
 HelloMyWorld
->>>>>>> development
